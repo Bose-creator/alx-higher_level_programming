@@ -16,7 +16,7 @@ Ensure you have Python 3.x installed on your system. You can download it from [p
 To get started with these examples, clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/python-if-else-functions.git
+git clone https://github.com/Bose-creator/alx-higher_level_programming.git
 ```
 
 Navigate to the project directory:
