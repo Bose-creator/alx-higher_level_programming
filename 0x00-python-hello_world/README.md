@@ -1,5 +1,3 @@
-Sure, here's a revised version of the provided text:
-
 1. **Run Python File:**
    Write a Shell script that executes a Python script. Save the Python file name in the environment variable `$PYFILE`.
 
