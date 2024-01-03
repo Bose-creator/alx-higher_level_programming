@@ -1,4 +1,3 @@
-
 # Python If-Else and Function Demonstrations
 
 ## Introduction
