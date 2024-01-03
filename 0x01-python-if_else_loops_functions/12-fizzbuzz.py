@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 def fizzbuzz():
     """
     Print the numbers from 1 to 100, but for multiples of three print "Fizz" 
@@ -15,6 +14,4 @@ def fizzbuzz():
             print("Buzz", end=" ")
         else:
             print(i, end=" ")
-
-# Example usage
 fizzbuzz()
